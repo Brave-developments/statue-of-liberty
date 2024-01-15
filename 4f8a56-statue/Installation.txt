@@ -1,0 +1,5 @@
+Installation:
+
+Put "statue" folder into mods/update/x64/dlcpacks
+
+Put "<Item>dlcpacks:\statue\</Item>" in mods/update/update.rpf/common/data/dlclist.xml
